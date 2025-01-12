@@ -12,8 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-jerjees-8b9011224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-jerjees-8b9011224/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ahmadjer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmadjer99" height="30" width="40" /></a>
-<a href="https://discord.gg/ahmadjer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ahmadjer99" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24062765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24062765" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
