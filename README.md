@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaddjer99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddjer99" /> </p>
 
-- 🌱 I’m currently learning **.NET Framework and Data Analytics using PowerBi**
+- 🌱 I’m currently learning **.NET Framework and Data Science**
 
 - 📫 How to reach me **ajerjees010@gmail.com**
 
