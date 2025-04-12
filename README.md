@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Jerjees</h1>
-<h3 align="center">A passionate .NET developer from Jordan</h3>
+<h3 align="center">A .NET developer from Jordan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmaddjer99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmaddjer99" /> </p>
 
-- 🌱 I’m currently learning **.NET Framework and Data Science**
+- 🌱 I’m currently learning **ASP.NET CORE**
 
 - 📫 How to reach me **ajerjees010@gmail.com**
 
